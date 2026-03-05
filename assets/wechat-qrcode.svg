@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="744" viewBox="0 0 1080 744">
+  <rect width="1080" height="744" fill="#ffffff"/>
+  <rect x="310" y="120" width="460" height="460" rx="12" fill="#f5f5f5" stroke="#d9d9d9"/>
+  <text x="540" y="320" text-anchor="middle" font-size="42" fill="#111" font-family="PingFang SC, Microsoft YaHei, sans-serif">个人微信二维码</text>
+  <text x="540" y="380" text-anchor="middle" font-size="30" fill="#666" font-family="PingFang SC, Microsoft YaHei, sans-serif">请替换为真实二维码图片</text>
+  <text x="540" y="660" text-anchor="middle" font-size="32" fill="#999" font-family="PingFang SC, Microsoft YaHei, sans-serif">扫码添加商务合作微信</text>
+</svg>
